@@ -1,0 +1,6 @@
+---
+galaxy_info:
+  author: sergey-281296
+  description: Vector role
+  license: MIT
+  min_ansible_version: 2.9
